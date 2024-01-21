@@ -9,7 +9,7 @@ public class BarBean {
 
     private String id;
 
-    // here gutter is ok: uncomment to check
+    // here gutter is ok, all beans are suggested: uncomment to check
    // @Autowired
    // private FooBean foo;
 
